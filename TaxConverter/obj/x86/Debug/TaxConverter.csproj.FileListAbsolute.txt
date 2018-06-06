@@ -1,0 +1,8 @@
+C:\Users\Tavano\documents\visual studio 2010\Projects\TaxConverter\TaxConverter\bin\Debug\TaxConverter.exe
+C:\Users\Tavano\documents\visual studio 2010\Projects\TaxConverter\TaxConverter\bin\Debug\TaxConverter.pdb
+C:\Users\Tavano\documents\visual studio 2010\Projects\TaxConverter\TaxConverter\obj\x86\Debug\TaxConverter.csprojResolveAssemblyReference.cache
+C:\Users\Tavano\documents\visual studio 2010\Projects\TaxConverter\TaxConverter\obj\x86\Debug\TaxConverter.exe
+C:\Users\Tavano\documents\visual studio 2010\Projects\TaxConverter\TaxConverter\obj\x86\Debug\TaxConverter.pdb
+C:\Users\Tavano\Documents\Visual Studio 2010\Projects\TaxConverter\TaxConverter\bin\Debug\NDbUnit.Core.dll
+C:\Users\Tavano\Documents\Visual Studio 2010\Projects\TaxConverter\TaxConverter\bin\Debug\NDbUnit.SqlLite.dll
+C:\Users\Tavano\Documents\Visual Studio 2010\Projects\TaxConverter\TaxConverter\bin\Debug\NDbUnit.SqlLite.pdb
